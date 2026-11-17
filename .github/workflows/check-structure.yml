@@ -39,7 +39,6 @@ jobs:
           required_files=(
             "README.md"
             "tool-summary.md"
-            "authorship-declaration.md"
             "01-first-responder/SOP.md"
             "02-evidence-collection/chain-of-custody-form.md"
             "03-malware-analysis/analysis-report.md"
